@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
   "homepage": "https://artdynasty13.github.io/personal-site/",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
