@@ -20,7 +20,7 @@ export default function Home() {
 
             <blockquote style={{ marginTop: '8rem' }}>
                 "Here is the point: we must find, from the outside, a way of describing the Aedificium as it is inside...."
-                <cite> — William of Baskerville</cite>
+                <cite> — Umberto Eco</cite>
             </blockquote>
         </div>
     );
